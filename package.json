@@ -1,0 +1,22 @@
+{
+  "name": "holamundoproyecto",
+  "version": "1.0.0",
+  "description": "Proyecto Hola Mundo Erickc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rufus454/HolaMundoProyectoHttp.git"
+  },
+  "keywords": [
+    "HolaMundo"
+  ],
+  "author": "Erick Eduardo Cerros Cabello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rufus454/HolaMundoProyectoHttp/issues"
+  },
+  "homepage": "https://github.com/rufus454/HolaMundoProyectoHttp#readme"
+}
